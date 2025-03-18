@@ -26,4 +26,5 @@ Muestra el nombre sorteado en la pantalla.
 Si ya no quedan amigos en ```listaAmigos```, se muestra una alerta después de **600ms**.
 También se limpia la lista en la interfaz.
 
+este es un screenshot:
 ![Screen Shot 2025-03-18 at 0 55 12](https://github.com/user-attachments/assets/7d1b5ba6-0f39-43de-b268-be3c341ea7af)
