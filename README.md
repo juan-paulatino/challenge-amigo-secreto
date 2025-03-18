@@ -5,14 +5,14 @@ El objetivo principal de este desafío es desarrollar habilidades en lógica de 
 El código "Sorteo Amigos" permite agregar nombres a una lista y luego seleccionar uno al azar. Aquí te explico su funcionamiento:
 
 ### 1. Agregar amigos
-Cuando el usuario escribe un nombre en un campo de texto y presiona un botón, la función incluirNombre():
+Cuando el usuario escribe un nombre en un campo de texto y presiona un botón, la función ```incluirNombre():```
 Toma el valor del input.
 Lo agrega al array listaAmigos.
 Limpia el input y actualiza la lista mostrada en la pantalla.
 
 ### 2. Mostrar la lista de amigos
 Cada vez que se agrega un amigo o se hace un sorteo, la función actualizarLista():
-Borra la lista anterior en el HTML.
+Borra la lista anterior en el **HTML**.
 Recorre el array listaAmigos y agrega cada nombre como un <li>.
 
 ### 3. Realizar el sorteo
