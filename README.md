@@ -11,3 +11,11 @@ Git y GitHub son herramientas esenciales para cualquier analista de datos, ya qu
 
 ### 4. Mantén tu trabajo actualizado utilizando ```git pull```, ```git add```, ```git commit``` y ```git push``` cuando sea necesario.
 
+####Resumen del proyecto
+
+Hemos cargado y combinado datos de cuatro tiendas diferentes para obtener una visión general de las ventas. Realizamos un análisis detallado de la facturación, observando que la mayoría de las compras se realizaron con tarjeta de crédito, seguido por Nequi, y en menor medida con cupón y tarjeta de débito.
+
+También analizamos las ventas por categoría de producto, identificando las categorías con mayor facturación. Además, calculamos la calificación promedio general de las tiendas. Finalmente, identificamos los productos más vendidos y los menos vendidos, y analizamos el costo promedio de envío por ubicación de la tienda.
+
+En resumen, hemos explorado los datos de ventas para entender el comportamiento de compra, el rendimiento de los productos, la satisfacción del cliente (a través de la calificación promedio) y los costos de envío por ubicación.
+
